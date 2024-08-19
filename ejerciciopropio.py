@@ -1,5 +1,4 @@
-
-class Tarea:
+lass Tarea:
     def __init__(self, titulo, descripcion, responsable, fecha_limite):
         self.titulo = titulo
         self.descripcion = descripcion

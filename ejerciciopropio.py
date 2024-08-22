@@ -40,7 +40,6 @@ class Equipo:
             for tarea in self.tareas:
                 tarea.mostrar_info()
 
-# Ejemplo de uso
 equipo = Equipo()
 
 while True:
